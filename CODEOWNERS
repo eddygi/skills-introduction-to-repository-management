@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @eddygi
+/src/backend/database.py      @eddygi
+/src/backend/routers/auth.py  @eddygi
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @eddygi
